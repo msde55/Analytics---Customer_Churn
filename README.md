@@ -3,7 +3,7 @@
 * Dataset of features of telecommunication firm customers is analyzed. The features of the dataset are shown on the right side.
 * The objective is to analyze the features of customers and find patterns and observations of customers who are churned vs who are retained.
 
-<h1> Churn.ipynb</h1>
+<h1>ChurnEDA.ipynb</h1>
 * Jupyter File to perform data preprocessing and cleaning.
 * Utilizes univariate & bivariate analysis, numerical analyses, variety of plots to visualize data.
 
